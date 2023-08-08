@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Libre Caslon Text', sans-serif;
+}
+
+body {
+    background-color: rgba(61, 65, 83, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.descrip{
+    margin-top: 8rem;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+}
+
+p {
+    width: 400px;
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    margin-left: 4rem;
+    margin-top: 2rem;
+    line-height: 40px;
+    font-weight: lighter;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #777FFE;
+}
+
+
+
+
+
+
+
